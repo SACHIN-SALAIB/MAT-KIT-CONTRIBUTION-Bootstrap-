@@ -1,0 +1,156 @@
+ /*
+ <div class="card zoom-hover m-2" style="width: 18rem;">
+                <img class="card-img-top" src=" ./assets/cardimg.png" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"> Ball Mastery Mat<br>
+                    England & Training <br> 
+                    program</h5>
+                  <p class="card-text">Ball Mastery Mat England & Training<br> Program </p>
+                  <a href="#" class="btn btn-primary w-100">Go somewhere</a>
+                </div>
+            </div>
+ */
+
+
+
+ /*
+
+
+
+      /*<div class="row">
+
+            <div id="countryCarousel" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item" id="italy">
+                    <div class="card zoom-hover m-2" style="width: 18rem;">
+                        <img class="card-img-top" src="./assets/cardimg.png" alt="Card image cap">
+                        <div class="card-body">
+                          <h5 class="card-title">Ball Mastery Mat<br>
+                           Italy & Training <br> 
+                            program</h5>
+                          <p class="card-text">Ball Mastery Mat England & Training<br> Program </p>
+                          <a href="#" class="btn btn-primary w-100">Go somewhere</a>
+                        </div>
+                    </div>
+                    </div>
+        
+        
+                    <div class="carousel-item" id="spain">
+                        <div class="card zoom-hover m-2" style="width: 18rem;">
+                            <img class="card-img-top" src="./assets/cardimg.png" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Ball Mastery Mat<br>
+                              Spain & Training <br> 
+                                program</h5>
+                              <p class="card-text">Ball Mastery Mat England & Training<br> Program </p>
+                              <a href="#" class="btn btn-primary w-100">Go somewhere</a>
+                            </div>
+                        </div>
+            
+            
+                    </div>
+                    <div class="carousel-item" id="england">
+                        <div class="card zoom-hover m-2" style="width: 18rem;">
+                            <img class="card-img-top" src="./assets/cardimg.png" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Ball Mastery Mat<br>
+                                England & Training <br> 
+                                program</h5>
+                              <p class="card-text">Ball Mastery Mat England & Training<br> Program </p>
+                              <a href="#" class="btn btn-primary w-100">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="carousel-item" id="france">
+                        <div class="card zoom-hover m-2" style="width: 18rem;">
+                            <img class="card-img-top" src="./assets/cardimg.png" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Ball Mastery Mat<br>
+                               France & Training <br> 
+                                program</h5>
+                              <p class="card-text">Ball Mastery Mat England & Training<br> Program </p>
+                              <a href="#" class="btn btn-primary w-100">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item" id="germany">
+                        <div class="card zoom-hover m-2" style="width: 18rem;">
+                            <img class="card-img-top" src="./assets/cardimg.png" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Ball Mastery Mat<br>
+                               Germany & Training <br> 
+                                program</h5>
+                              <p class="card-text">Ball Mastery Mat England & Training<br> Program </p>
+                              <a href="#" class="btn btn-primary w-100">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    </div>
+                    </div>
+             
+            <div class="indicators mt-4">
+                <img src="./assets/italy.jpg" alt="Italy" onclick="showCountry('italy')">
+                <img src="./assets/spain.jpg" alt="Spain" onclick="showCountry('spain')">
+                <img src="./assets/england.jpg" alt="England" onclick="showCountry('england')">
+                <img src="./assets/france.jpg" alt="France" onclick="showCountry('france')">
+                <img src="./assets/germany.jpg" alt="Germany" onclick="showCountry('germany')">
+            </div>
+           
+         
+             
+        </div> 
+
+
+ */
+
+ //corosel code>>//
+
+ /*
+ <div class="row">
+            
+
+  <div class="main"> 
+      <div class="carousel"> 
+          <div class="carousel-inner">
+              <div class="carousel-item" id="italy">
+                  <h2>Italy</h2>
+              </div>
+              <div class="carousel-item" id="spain">
+                  <h2>Spain</h2>
+              </div>
+              <div class="carousel-item" id="england">
+                  <h2>England</h2>
+              </div>
+              <div class="carousel-item" id="france">
+                  <h2>France</h2>
+              </div>
+              <div class="carousel-item" id="germany">
+                  <h2>Germany</h2>
+              </div>
+          </div>
+      </div>
+  </div>
+  <div class="indicators">
+      <img src="./assets/italy.jpg" alt="Italy" onclick="showCountry('italy')">
+      <img src="./assets/spain.jpg" alt="Spain" onclick="showCountry('spain')">
+      <img src="./assets/england.jpg" alt="England" onclick="showCountry('england')">
+      <img src="./assets/france.jpg" alt="France" onclick="showCountry('france')">
+      <img src="./assets/germany.jpg" alt="Germany" onclick="showCountry('germany')">
+  </div>
+  
+</div>
+
+ /*
+
+ @media(max-width:990px){
+  .card{
+      width: 11rem;
+  }
+  .card_div{
+      justify-content: space-between;
+  }
+}
